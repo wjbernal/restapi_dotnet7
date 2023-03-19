@@ -27,3 +27,4 @@ C:\WilliamAPI_01\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\refint\BuberBrea
 C:\WilliamAPI_01\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.pdb
 C:\WilliamAPI_01\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.genruntimeconfig.cache
 C:\WilliamAPI_01\BuberBreakfast\BuberBreakfast\obj\Debug\net7.0\ref\BuberBreakfast.dll
+C:\WilliamAPI_01\BuberBreakfast\BuberBreakfast\bin\Debug\net7.0\ErrorOr.dll
