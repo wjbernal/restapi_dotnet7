@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BuberBreakfast/1.0.0": {
+        "dependencies": {
+          "BuberBreakfast.contracts": "1.0.0"
+        },
+        "runtime": {
+          "BuberBreakfast.dll": {}
+        }
+      },
+      "BuberBreakfast.contracts/1.0.0": {
+        "runtime": {
+          "BuberBreakfast.contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuberBreakfast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberBreakfast.contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+POST http://localhost:5075/breakfasts
+Content-Type: application/json
+
+{
+    "name": "Ajiaco Bogotano..",
+    "description": "Yummy Bogotan Ajiaco..",
+    "startDateTime": "2023-04-08T08:00:00",
+    "endDateTime": "2023-04-08T11:00:00",
+    "savory": [
+        "Soup",
+        "Avocado Toast",
+        "Potatoe",
+        "Chicken"
+    ],
+    "Sweet": [
+        "Corn"
+    ]
+}
+
+
+###
+
+GET http://localhost:5075/Breakfasts/edb1a1d9-db40-4990-bf20-a28a78088c67
